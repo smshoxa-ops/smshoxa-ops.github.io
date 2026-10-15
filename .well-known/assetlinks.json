@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "fion.app",
+      "package_name": "ffion.app",
       "sha256_cert_fingerprints": [
         "6A:C3:B2:CE:DA:CD:D5:85:EE:BC:80:3D:6F:FD:73:D9:55:53:CE:5A:5C:F0:90:D2:85:EA:49:94:DD:1F:84:66"
       ]
